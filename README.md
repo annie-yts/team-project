@@ -11,3 +11,12 @@ The readme should include information such as:
 By keeping this README up-to-date,
 your team will find it easier to prepare for the final presentation
 at the end of the term.
+
+Short List of User Stories (Oct 5):
+-
+- Finding Laptop friendly cafes near you
+- Something related to spread of diseases
+- Games, i.e., Card Games, Board Games, Monopoly
+- Offline Chess
+- Git repo analyzer
+- Crossword puzzle?
