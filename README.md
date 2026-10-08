@@ -21,3 +21,5 @@ Short List of User Stories (Oct 5):
 - Offline Chess
 - Git repo analyzer
 - Crossword puzzle?
+- Inputting articles/reviews/papers/essays to generate high-frequency words in the form of word cloud.
+    - https://artwork.presentermedia.com/clipart/00025000/25614/idea_lightbulb_word_cloud_design_800_wht.jpg
